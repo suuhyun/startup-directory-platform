@@ -1,4 +1,5 @@
-This is a [Next.js](https://nextjs.org) project bootstrapped with [`create-next-app`](https://nextjs.org/docs/app/api-reference/cli/create-next-app).
+## Live Demo
+[Here](https://startup-directory-platform-l5raihd43-suhyuns-projects-3e948b13.vercel.app)
 
 ## Getting Started
 
